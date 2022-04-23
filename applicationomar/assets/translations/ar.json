@@ -1,0 +1,130 @@
+{
+    "Logstexts": {
+        "Month_text": "شهري",
+        "year_text": "سنوي",
+        "Daily_text": "يومي",
+        "All_text": "جميع",
+        "Logs_text": "السجل"
+    },
+    "Debts_Texts": {
+        "debtor_text": "مدين",
+        "Creditor_text": "دائن",
+        "debts_text": "ديونك"
+    },
+    "Profile": {
+        "Logout_text": "تسجيل الخروج"
+    },
+    "settings": {
+        "chnge_lang": "تغيير اللغة",
+        "settings_text": "الإعدادات"
+    },
+    "NavBar": {
+        "home_text": "الرئيسية",
+        "warehouse_text": "المستودع",
+        "logs_text": "السجل",
+        "profile_text": "حسابي",
+        "Operations_text": "العمليات"
+    },
+    "Home": {
+        "Welcome_text": "مرحبا \n, نحن في خدمتك !",
+        "title_text": "دفترك",
+        "reminder_text": "تذكير اليوم :"
+    },
+    "Warehouse": {
+        "add_products_text": "إضافة منتجات",
+        "view_products_text": "عرض المنتجات",
+        "refill_text": "إعادة تعبئة",
+        "delete_prodcuts_text": "إزالة منتجات",
+        "Add Products": {
+            "add_cat": "إضافة فئة",
+            "add_subcat": "إضافة فئة فرعية",
+            "cancel_button": "إلغاء",
+            "ok_button": "تم",
+            "add_product": "إضافة منتج :",
+            "prod_name": "الاسم",
+            "choose_cat": "اختر فئة ",
+            "choose_subcat": "اختر فئة فرعية",
+            "minimuim_text": "الحد الأدنى"
+        }
+    },
+    "Login": {
+        "username_text": "اسم المستخدم",
+        "pass_text": "كلمة السر",
+        "signin_text": "تسجيل الدخول",
+        "cnfrm_pass": "أكد كلمة السر",
+        "frgt_pass": "هل نسيت كلمة السر ؟"
+    },
+    "Tasks": {
+        "tasks_text": "مهامي",
+        "add_task": "إضافة مهمة :",
+        "task_title": "العنوان",
+        "task_date": "التاريخ",
+        "task_priority": "الأولوية",
+        "task_add": "إضافة",
+        "task_update": "تعديل",
+        "task_delete": "حذف",
+        "task_prio_Low": "أقل أهمية",
+        "task_prio_Med": "مهم",
+        "task_prio_high": "مهم جدا",
+        "back_button": "رجوع",
+        "enter_title": "يجب اضافة عنوان للمهمة ! ",
+        "enter_prio_validation": " يجب تحديد درجة أولوية !"
+    },
+    "Operations": {
+        "Sales": {
+            "Sales_text": "المبيعات",
+            "Sell_text": "بيع منتجات",
+            "Income_text": "مدخول مالي",
+            "Selling_Products_desc": "بيع المنتجات\\nإزالة من المستودع",
+            "Income_desc": "إضافة مبلغ مالي\\n. الى الصندوق"
+        },
+        "Payments": {
+            "payments_text": "المشتريات",
+            "Costs": "التكاليف",
+            "Recipes": "الفواتير",
+            "Bills": "الضرائب",
+            "Salaries": "الرواتب",
+            "Withdrawal": "سحب مالي"
+        },
+        "Bills": {
+            "electricity": "فاتورة الكهرباء",
+            "water": "فاتورة الماء",
+            "gas": "المحروقات",
+            "phone": "فاتورة الهاتف",
+            "Transport": "أجور النقل",
+            "Choose_Bill": "اختر فاتورة :",
+            "Bills_text": "الفواتير",
+            "Notes_text": "ملاحظات"
+        },
+        "Costs": {
+            "Add_costs": "إضافة مبلغ مالي",
+            "Title": "الاسم",
+            "costs_desc": "الوصف",
+            "value": "القيمة",
+            "costs_date": "التاريخ : الوقت الحالي",
+            "picked_date": "الوقت الذي تم اختياره :"
+        },
+        "Income": {
+            "Income_text": "الدخل",
+            "amount_text": "المبلغ",
+            "income_reason": "سبب المدخول"
+        },
+        "Recipes": {},
+        "Salaries": {
+            "add_salaries": "إضافة راتب",
+            "employee_name": "اسم الموظف",
+            "amount": "المبلغ",
+            "salary_date": "التاريخ",
+            "salary_month": "الشهر",
+            "salary_year": "السنة"
+        },
+        "Withdrawal": {
+            "withdrawal_text": "سحب مالي : ",
+            "withdraw_amount": "المبلغ",
+            "withdraw_reason": "سبب السحب"
+        }
+    },
+    "Mainscreen": {
+        " Movie": "الفيلم"
+    }
+}

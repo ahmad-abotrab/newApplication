@@ -1,0 +1,348 @@
+{
+    "LoginPage": {
+        "loginTitlePage": "تسجيل الدخول",
+        "selectLang": "تغير اللغة",
+        "Lang_1": "عربي",
+        "Lang_2": "انكليزي",
+        "NameProject": "دفترك",
+        "FieldEmailHinitAndLable": "البريد الالكتروني",
+        "FieldPasswordHinitAndLable": "كلمة المرور",
+        "ButtonLogin": "تسجيل الدخول",
+        "ForgetPasswordButton": "هل نسيت كلمة المرور",
+        "PowerdBy": "أُنتجته شركة"
+    },
+    "choiceUser": {
+        "appBarTitel": "اختيار المستخدم",
+        "hintAndLableText": "البحث عن مستخدم",
+        "titleDialog": "خطأ في تسجيل الدخول",
+        "content_first": "كلمة المرور الخاصة بك خاطئة , الرجاء حاول مرة أخرى\n لديك ",
+        "content_second": " مرات",
+        "buttonBackDialog": "رجوع",
+        "validatorPin": "يجري التحقق",
+        "afterEnterPinAndItsCorrect": "يتم الآن تسجيل الدخول بواسطة : ",
+        "OverTimesInterPin": "اضغط ليتم الاتصال بالشركة المصنعة"
+    },
+    "Drawar": {
+        "ActivateApp": "تفعيل التطبيق",
+        "Register": "تسجيل حساب جديد",
+        "technicalSupport": "الدعم الفني",
+        "contentTechnincalSupport": "لديك العديد من الخيارات للحصول على الدعم التقني",
+        "ChangePassword": "تغيير كلمة المرور ",
+        "LogOut": "تسجيل الخروج",
+        "DialogActivate": {
+            "title": "تفعيل التطبيق",
+            "content": "أدخل رمز التفعيل",
+            "ButtonSure": "تأكيد",
+            "ButtonCancel": "إلغاء"
+        }
+    },
+    "Home": {
+        "Welcome_text": "مرحبا , نحن في خدمتك !",
+        "title_text": "دفترك",
+        "reminder_text": "تذكير اليوم :"
+    },
+    "NavBar": {
+        "home_text": "الرئيسية",
+        "warehouse_text": "المستودع",
+        "logs_text": "السجل",
+        "customer_text": "الزبائن",
+        "Operations_text": "العمليات"
+    },
+    "LogsScreen": {
+        "earning": "الإرادات",
+        "Looses": "الخسائر",
+        "Subject_MoreSale": "الامدة الأكثر مبيعاً",
+        "Customer_MostImportant": "الزبون الأكثر أهمية",
+        "StepperNext": "التالي",
+        "StepperBack": "السابق",
+        "DetialsButton": "تفاصيل",
+        "months": {
+            "Jan": "كانون الأول",
+            "Feb": "شباط",
+            "Mar": "آذار",
+            "Apr": "نيسان",
+            "May": "أيار",
+            "Jun": "حزيران",
+            "Jul": "تموز",
+            "Aug": "آب",
+            "Sep": "أيلول",
+            "Oct": "تشرين الأول",
+            "Nov": "تشرين الثاني",
+            "Dec": "كانون الثاني"
+        },
+        "days": {
+            "Sun": "الأحد",
+            "Mon": "الاثنين",
+            "Tus": "الثلاثاء",
+            "Wed": "الأربعاء",
+            "Thr": "الخميس",
+            "Fri": "الجمعة",
+            "Sat": "السبت"
+        },
+        "weeks": {
+            "1": "الأسبوع الأول",
+            "2": "الأسبوع الثاني",
+            "3": "الأسبوع الثالث",
+            "4": "الأسبوع الرابع"
+        }
+    },
+    "Warehouse": {
+        "titleWarHouse": "المنتجات",
+        "add_products_text": "إضافة منتج",
+        "view_products_text": "عرض المنتجات",
+        "Category": " الفئة الأساسية",
+        "subCategory": "الفئة الفرعية",
+        "AllProduct": "كل المنتجات",
+        "MostPopular": "الأكثر طلباً",
+
+        "Col_QAT": "الكمية",
+        "Col_product": "المنتج",
+        "Col_Price": "السعر",
+        "Close_slid": "إغلاق",
+        "Del_slid": "حذف",
+        "More_slid": "المزيد",
+        "More": {
+            "Quantity": "الكمية",
+            "Min_Quantity": "الحد الأني",
+            "NameCompany": "اسم الشركة : ",
+            "buttonBack": "رجوع"
+        },
+        "Add Products": {
+            "titleDialog": "تحذير",
+            " b": "لديك مشكلة في اختيار الفئة الرئيسية أو الفئة الفرعية الرجاء المحاولة مرة آخرى",
+            "backBtn": "رجوع",
+            "add_cat": "إضافة فئة",
+            "add_subcat": "إضافة فئة فرعية",
+            "cancel_button": "إلغاء",
+            "ok_button": "تم",
+            "add_product": "إضافة منتج :",
+            "prod_name": "الاسم",
+            "validatorNameProduct": "الرجاء إدخال اسم المنتج",
+            "validatorMinAmount": "الرجاء إدخال الحد لأدنى للكمية",
+            "choose_cat": "اختر فئة ",
+            "choose_subcat": "اختر فئة فرعية",
+            "minimuim_text": "الحد الأدنى",
+            "NameCat": "الرجاء إدخال اسم الفئة الرئيسية",
+            "NameSubCat": "الرجاء إدخال اسم الفئة الفرعية",
+            "toastShowAddProduct": "تم إضافة المنتج",
+            "backButton": "رجوع",
+            "AddButton": "إضافة"
+        }
+    },
+    "Operations": {
+        "SellingProduct": {
+            "Search_hintText": "البحث عن زبون",
+            "nameCategory": "الفئة الرئيسية",
+            "nameSubCategory": "الفئة الفرعية",
+            "qty": "الكمية",
+            "validatorQTY": "الرجاء إدخال الكمية",
+            "validatorQTYInput": "الرجاء إدخال الكمية بشكل صحيح",
+
+            "validatorPrice": "الرجاء إدخال السعر",
+            "price": "سعر القطعة",
+            "nameProduct": "اسم المنتج",
+            "totalPrice": "السعر الكلي",
+            "notFound": "لا يوجد",
+            "warning": "تحذير",
+            "warningSubCategoryChose": "الرجاء حدد الفئة الفرعية",
+            "warningProductChose": "الرجاء حدد المنتج الذي تريده",
+
+            "backButton": "رجوع"
+        },
+        "Sales": {
+
+            "Sales_text": "المبيعات",
+            "Sell_text": "بيع منتجات",
+            "Income_text": "مدخول مالي",
+            "Selling_Products_desc": "بيع المنتجات \nإزالة من المستودع",
+            "Income_desc": "إضافة مبلغ مالي \nالى الصندوق"
+        },
+        "Payments": {
+            "payments_text": "المشتريات",
+            "Costs": "التكاليف",
+            "Recipes": "إعادة تعبئة منتج",
+            "Bills": "الفواتير",
+            "Salaries": "الرواتب",
+            "Withdrawal": "سحب مالي",
+            "Returns": "إرجاع"
+        },
+        "Bills": {
+            "add_a_bill": "إضافة فاتورة : ",
+            "electricity": "فاتورة الكهرباء",
+            "water": "فاتورة الماء",
+            "gas": "المحروقات",
+            "phone": "فاتورة الهاتف",
+            "Transport": "أجور النقل",
+            "other": "نوع أخر",
+            "Choose_Bill": "اختر فاتورة :",
+            "Bills_text": "أدخل الفاتورة",
+            "Notes_text": "ملاحظات",
+            "cancelButton": "اغلاق",
+            "AddButton": "إضافة",
+            "Filled": "القيمة",
+            "validator": "الرجاء إدخال القيمة",
+            "dialogValidator": {
+                "title": "تحذير",
+                "content": "الرجاء إدخال نوع الفاتورة",
+                "backbtn": "رجوع"
+            }
+
+        },
+        "Returns": {
+            "return_title": "إرجاع",
+            "category": "الفئة الرئيسية",
+            "subCategory": "الفئة الفرعية",
+            "productName": "المنتج",
+            "qty": "الكمية",
+            "price": "سعر القطعة",
+            "validatorQTY": "الرجاء إدخال الكمية",
+            "validatorQTYInput": "الرجاء إدخال الكمية بشكل صحيح",
+
+            "validatorPrice": "الرجاء إدخال السعر",
+            "returnButton": "إرجاع",
+            "dialogValidator": {
+                "Title": "تحذير",
+                "content": "دير بالك لا يمكن إكمال المهمة لأنهيوجد مشكلة في اختيار الفئة الرئيسية أو الفئة الفرعية أو المنتج",
+                "backBtn": "رجوع"
+            }
+        },
+        "Costs": {
+            "Add_costs": "إضافة مبلغ مالي",
+            "Title": "ما هي التكلفة ؟",
+            "costs_desc": "الوصف",
+            "value": "القيمة",
+            "date": "التاريخ الحالي",
+            "validator1": "الرجاء إدخال عنوان التكلفة ",
+            "validator2": "الرجاء إدخال شرح عن التكلفة",
+            "validator3": "الرجاء إدخال قيمة التكلفة",
+            "selectDate": "اختر التاريخ",
+
+            "AddButton": "إضافة"
+        },
+        "Income": {
+            "toast": "تمت الإضافة بنجاح",
+            "Income_text": "الدخل",
+            "amount_text": "المبلغ",
+            "validatorAmount": "الرجاء إدخال المبلغ",
+            "income_reason": "سبب المدخول",
+            "validatorReason": "الرجاء إدخال مصدر الدخل "
+        },
+        "Recipes": {
+            "appBarTitle": "إعادة تعبئة منتج",
+            "nameCategory": "الفئة الرئيسية",
+            "nameSubCategory": "الفئة الفرعية",
+            "qty": "الكمية",
+            "validatorQTY": "الرجاء إدخال الكمية",
+            "validatorQTYInput": "الرجاء إدخال الكمية بشكل صحيح",
+
+            "validatorPrice": "الرجاء إدخال السعر",
+            "price": "سعر القطعة",
+            "nameProduct": "اسم المنتج",
+            "totalPrice": "السعر الكلي",
+            "notFound": "لا يوجد",
+            "warning": "تحذير",
+            "warningSubCategoryChose": "الرجاء حدد الفئة الفرعية",
+            "warningProductChose": "الرجاء حدد المنتج الذي تريده",
+
+            "backButton": "رجوع"
+        },
+        "Salaries": {
+            "add_salaries": "إضافة راتب",
+            "employee_name": "اسم الموظف",
+            "amount": "المبلغ",
+            "validator": "الرجاء إدخال راتب الموظف",
+            "notFound": "لا يوجد",
+            "date": "التاريخ الحالي",
+
+            "selectDate": "اختر التاريخ",
+
+            "AddButton": "إضافة",
+            "dialogValidator": {
+                "title": "تحذير",
+                "content": "الرجاء اختار الموظف الذي تريد دفع راتبه",
+                "btnBack": "رجوع"
+            }
+        },
+        "Withdrawal": {
+            "withdrawal_text": "سحب مالي : ",
+            "withdraw_amount": "المبلغ",
+            "validator1": "الرجاء إدخال المبلغ المراد سحبه",
+            "validator2": "الرجاء إدخال سبب السحب",
+            "withdraw_reason": "سبب السحب",
+            "AddButton": "إضافة"
+        }
+    },
+    "Customer": {
+        "MainPage": {
+            "title": "الزبائن",
+            "allCustomerButton": "كل الزبائن",
+            "FilttedHint": "فرز الديون",
+            "debts": "الديون"
+        },
+        "AddNewCustomerButton": {
+            "title": "إضافة زبون جديد",
+            "name": "الاسم",
+            "phone": "الهاتف الأرضي",
+            "address": "العنوان",
+            "mobile": "الهاتف المحمول",
+            "addButton": "إضافة"
+        },
+        "AllCustomerPage": {
+            "appBarTitle": "كل الزبائن",
+            "id": "رقم التعريف",
+            "name": "الاسم",
+            "remaning": "المبلغ المتبقي",
+            "Amount": "المبلغ المدفوع",
+            "moreVert": "خيارات",
+            "warningDialog": {
+                "title": "تحذير",
+                "content": " إنّه غير متاح ، إذا أردت ان تضيف اضغط على زر إضافة",
+                "cancelButton": "رجوع",
+                "addButton": "إضافة"
+            },
+
+            "dialogPayment": {
+                "value": "القيمة",
+                "validator1": "الرجاءء إدخال قيمة التكلفة المسددة ...."
+            },
+            "popupMenuChoices": {
+                "callMobile": "الاتصال على الجوال",
+                "callPhone": "اتصال على الهاتف ",
+                "detials": "تفاصيل",
+                "payment": "تسديد دفعات"
+            }
+        },
+        "ProfileCustomer": {
+            "AmountPaid": "المبلغ المدفوع",
+            "Remainig": "المبلغ المتبقي",
+            "total": "المبلغ الكلي",
+            "value": "المبلغ",
+            "date": "التاريخ",
+            "id": "رقم التعريف"
+
+        }
+    },
+    "Todo": {
+        "TodoAppBar": "صفحة المهام",
+        "TodoTitle": "مهامك",
+        "notask": "لا يوجد مهام",
+        "back": "العودة للصفحة الرئيسية",
+        "ListTitle": {
+            "NoTitle": "لا عنوان",
+            "task": "مهمة",
+            "event": "مناسبة",
+            "undo": "تراجع",
+            "textSnackbar": " مهمتك حُذِفت"
+        },
+        "AddewTask": {
+            "appBar": "إضافة مهمة او مناسبة جديدة",
+            "titleTask": "إضافة عنوان",
+            "task": "مهمة",
+            "event": "مناسبة",
+            "desc": "شرح .....",
+            "addButton": "إضافة"
+        }
+    }
+
+
+}

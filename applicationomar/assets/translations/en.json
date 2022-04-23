@@ -1,0 +1,130 @@
+{
+    "Logstexts": {
+        "Month_text": "Monthly",
+        "year_text": "Yearly",
+        "Daily_text": "Daily",
+        "All_text": "All",
+        "Logs_text": "Check Your Logs"
+    },
+    "Debts_Texts": {
+        "debtor_text": "Debtor",
+        "Creditor_text": "Creditor",
+        "debts_text": "Check Your Debts"
+    },
+    "Profile": {
+        "Logout_text": "Log Out"
+    },
+    "settings": {
+        "chnge_lang": "Change Language",
+        "settings_text": "Settings"
+    },
+    "NavBar": {
+        "home_text": "Home",
+        "warehouse_text": "Warehouse",
+        "logs_text": "Logs",
+        "profile_text": "Profle",
+        "Operations_text": "Operations"
+    },
+    "Home": {
+        "Welcome_text": "Welcome\n, At Your Service !",
+        "title_text": "Daftarak",
+        "reminder_text": "Today's Reminder :"
+    },
+    "Warehouse": {
+        "add_products_text": "Add Products",
+        "view_products_text": "View Products",
+        "refill_text": "Refill",
+        "delete_prodcuts_text": "Delete Products",
+        "Add Products": {
+            "add_cat": "Add Categories",
+            "add_subcat": "Add Subcategory",
+            "cancel_button": "CANCEL",
+            "ok_button": "OK",
+            "add_product": "Add a Product :",
+            "prod_name": "Name",
+            "choose_cat": "Choose a Category",
+            "choose_subcat": "Choose a Subcategory",
+            "minimuim_text": "Minimuim Amount"
+        }
+    },
+    "Login": {
+        "username_text": "Username",
+        "pass_text": "Password",
+        "signin_text": "Sign in",
+        "cnfrm_pass": "Confirm Your Password",
+        "frgt_pass": "Forgot Your Password ?"
+    },
+    "Tasks": {
+        "tasks_text": "My Tasks",
+        "add_task": "Add a Task :",
+        "task_title": "Title",
+        "task_date": "Date",
+        "task_priority": "Priority",
+        "task_add": "Add",
+        "task_update": "Update",
+        "task_delete": "Delete",
+        "task_prio_Low": "Low",
+        "task_prio_Med": "Meduim",
+        "task_prio_high": "High",
+        "back_button": "Back",
+        "enter_title": "Please Enter a task title !",
+        "enter_prio_validation": "Please Enter a Priority Level !"
+    },
+    "Operations": {
+        "Sales": {
+            "Sales_text": "Sales",
+            "Sell_text": "Selling Product",
+            "Income_text": "Income",
+            "Selling_Products_desc": "Selling Products\\n Remove from Warehouse",
+            "Income_desc": ". Add an amount of money\\n. to Check Box"
+        },
+        "Payments": {
+            "payments_text": "Payments",
+            "Costs": "Costs",
+            "Recipes": "Recipes",
+            "Bills": "Bills",
+            "Salaries": "Salaries",
+            "Withdrawal": "Withdrawal"
+        },
+        "Bills": {
+            "electricity": "Electricity Bill",
+            "water": "Water Bill",
+            "gas": "Gas",
+            "phone": "Phone Bill",
+            "Transport": "Transportation",
+            "Choose_Bill": "Choose a Bill :",
+            "Bills_text": "Bills",
+            "Notes_text": "Notes"
+        },
+        "Costs": {
+            "Add_costs": "Add a Cost",
+            "Title": "Title",
+            "costs_desc": "Description",
+            "value": "value",
+            "costs_date": "Present Time",
+            "picked_date": "Picked Date :"
+        },
+        "Income": {
+            "Income_text": "Income",
+            "amount_text": "Amount",
+            "income_reason": "Income Reason"
+        },
+        "Recipes": {},
+        "Salaries": {
+            "add_salaries": "Add a Salary",
+            "employee_name": "Employee's Name",
+            "amount": "Amount",
+            "salary_date": "Date",
+            "salary_month": "Month",
+            "salary_year": "Year"
+        },
+        "Withdrawal": {
+            "withdrawal_text": "Withdrawal :",
+            "withdraw_amount": "Amount",
+            "withdraw_reason": "Withdraw Reason"
+        }
+    },
+    "Mainscreen": {
+        " Movie": "Movie"
+    }
+}

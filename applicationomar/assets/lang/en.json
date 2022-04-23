@@ -1,0 +1,350 @@
+{
+    "LoginPage": {
+        "loginTitlePage": "Login",
+        "selectLang": "Select Language",
+        "Lang_1": "Arabic",
+        "Lang_2": "English",
+        "NameProject": "Daftarak",
+        "FieldEmailHinitAndLable": "Email",
+        "FieldPasswordHinitAndLable": "Password",
+        "ButtonLogin": "Login",
+        "ForgetPasswordButton": "ForgetPassword",
+        "PowerdBy": "Powerd by"
+    },
+    "choiceUser": {
+        "appBarTitel": "Choice User",
+        "hintAndLableText": "Search User",
+        "titleDialog": "Failed Login",
+        "content_first": "your pin is not correct , please try again\n you have ",
+        "content_second": "times",
+        "buttonBackDialog": "back",
+        "validatorPin": "I'm from validator",
+        "afterEnterPinAndItsCorrect": "You Make Login by : ",
+        "OverTimesInterPin": "press To Connect with Codrex.co Comany"
+    },
+    "Drawar": {
+        "ActivateApp": "Activate App",
+        "Register": "Register",
+        "technicalSupport": "Technical Support",
+        "contentTechnincalSupport": "you have many options to get technical support",
+        "ChangePassword": "Change Password",
+        "LogOut": "Logout",
+        "DialogActivate": {
+            "title": "Activate",
+            "content": "Enter Active code",
+            "ButtonSure": "Accept",
+            "ButtonCancel": "Cancel"
+        }
+    },
+    "Home": {
+        "Welcome_text": "Welcome  , At Your Service !",
+        "title_text": "Daftarak",
+        "reminder_text": "Today's Reminder :"
+    },
+    "NavBar": {
+        "home_text": "Home",
+        "warehouse_text": "Warehouse",
+        "logs_text": "Logs",
+        "customer_text": "Customer",
+        "Operations_text": "Operations"
+    },
+
+    "LogsScreen": {
+        "earning": "Earnings",
+        "Looses": "Looses",
+        "Subject_MoreSale": "Subject More Sale",
+        "Customer_MostImportant": "Customer Most Important",
+        "StepperNext": "Next",
+        "StepperBack": "Back",
+        "DetialsButton": "Detials",
+        "months": {
+            "Jan": "January",
+            "Feb": "February",
+            "Mar": "March",
+            "Apr": "April",
+            "May": "May",
+            "Jun": "June",
+            "Jul": "July",
+            "Aug": "August",
+            "Sep": "September",
+            "Oct": "October",
+            "Nov": "November",
+            "Dec": "December"
+        },
+        "days": {
+            "Sun": "Sunday",
+            "Mon": "Monday",
+            "Tus": "Tuesday",
+            "Wed": "Wednesday",
+            "Thr": "Thursday",
+            "Fri": "Friday",
+            "Sat": "Saturday"
+        },
+        "weeks": {
+            "1": "Week_1",
+            "2": "Week_2",
+            "3": "Week_3",
+            "4": "Week_4"
+        }
+    },
+    "Warehouse": {
+        "titleWarHouse": "Products",
+        "add_products_text": "Add Products",
+        "view_products_text": "View Products",
+        "Category": " Category",
+        "subCategory": "Sub Category",
+        "AllProduct": "All Products",
+        "MostPopular": "Most Popular",
+        "Col_QAT": "QAT",
+        "Col_product": "product",
+        "Col_Price": "Price",
+        "Close_slid": "Close",
+        "Del_slid": "Delete",
+        "More_slid": "More",
+        "More": {
+            "Quantity": "Quantity",
+            "Min_Quantity": "Min Quantity",
+            "NameCompany": "Company Name : ",
+            "buttonBack": "back"
+
+
+        },
+        "Add Products": {
+            "titleDialog": "warning",
+            "contentDialog": "you have problem in choice category or sub category ... please try again....",
+            "backBtn": "back",
+            "add_cat": "Add Category",
+            "add_subcat": "Add Subcategory",
+            "cancel_button": "CANCEL",
+            "ok_button": "OK",
+            "add_product": "Add a Product :",
+            "prod_name": "Name",
+            "validatorNameProduct": "Please Enter a Product Name !",
+            "validatorMinAmount": "Please Enter an amount !",
+            "choose_cat": "Choose a Category",
+            "choose_subcat": "Choose a Subcategory",
+            "minimuim_text": "Minimuim Amount",
+            "NameCat": "Please Enter Name Of Category",
+            "NameSubCat": "Please Enter Name Of Sub Category",
+            "toastShowAddProduct": "Added Product Success",
+            "backButton": "back",
+            "AddButton": "Add"
+        }
+    },
+    "Operations": {
+        "SellingProduct": {
+            "Search_hintText": "Search Customer",
+            "nameCategory": "Category",
+            "nameSubCategory": "Sub Category",
+            "qty": "QTY",
+            "validatorQTY": "please enter Quantity for this product",
+            "validatorQTYInput": "please quantity is not correct",
+
+            "validatorPrice": "please enter price for this product",
+            "price": "unit Price",
+            "nameProduct": "Product",
+            "totalPrice": "total Price",
+            "notFound": "not found",
+            "warning": "warning",
+            "warningSubCategoryChose": "Please determine sub category",
+            "warningProductChose": "Please chose Product",
+
+            "backButton": "back"
+        },
+        "Sales": {
+            "Sales_text": "Sales",
+            "Sell_text": "Selling Product",
+            "Income_text": "Income",
+            "Selling_Products_desc": "Selling Products\n Remove from Warehouse",
+            "Income_desc": ". Add an amount of money\n. to Check Box"
+        },
+        "Payments": {
+            "payments_text": "Payments",
+            "Costs": "Costs",
+            "Recipes": "Recipes",
+            "Bills": "Bills",
+            "Salaries": "Salaries",
+            "Withdrawal": "Withdrawal",
+            "Returns": "Returns"
+        },
+        "Returns": {
+            "return_title": "return",
+            "category": "category",
+            "subCategory": "subCategory",
+            "productName": "product",
+            "qty": "QTY",
+            "price": "unit Price",
+            "validatorQTY": "please enter Quantity for this product",
+            "validatorQTYInput": "please quantity is not correct",
+
+            "validatorPrice": "please enter price for this product",
+            "returnButton": "return",
+            "dialogValidator": {
+                "Title": "Warning",
+                "content": "be carful yu cant complete process brcause some thing in category or subcategory or product is not available",
+                "backBtn": "back"
+            }
+        },
+        "Bills": {
+            "add_a_bill": "Add a Bill : ",
+            "electricity": "Electricity Bill",
+            "water": "Water Bill",
+            "gas": "Gas",
+            "phone": "Phone Bill",
+            "Transport": "Transportation",
+            "other": "other",
+            "Choose_Bill": "Choose a Bill :",
+            "Bills_text": "ُEnter your Bill ",
+            "Notes_text": "Notes",
+            "cancelButton": "Cancel",
+            "AddButton": "Add",
+            "Filled": "Amount",
+
+            "validator": "please enter ",
+            "dialogValidator": {
+                "title": "warning",
+                "content": "please choice type of Bill ...",
+                "backbtn": "back"
+            }
+
+
+
+        },
+        "Costs": {
+            "Add_costs": "Add a Cost",
+            "Title": "Title",
+            "costs_desc": "Description",
+            "value": "value",
+            "validator1": "'Please Enter a Title Cost !",
+            "validator2": "'Please Enter a description cost !",
+            "validator3": "'Please Enter a value of cost !",
+            "date": "Present Time",
+            "selectDate": "Chose Date",
+            "AddButton": "Add"
+        },
+        "Income": {
+            "toast": "Done",
+            "Income_text": "Income",
+            "amount_text": "Amount",
+            "validatorAmount": "Please Enter a Amount !",
+            "income_reason": "Income Reason",
+            "validatorReason": "Please Enter an reason for income"
+        },
+        "Recipes": {
+            "appBarTitle": "Refill Products",
+            "nameCategory": "Category",
+            "nameSubCategory": "Sub Categor",
+            "qty": "QTY",
+            "validatorQTY": "please enter Quantity for this product",
+            "validatorQTYInput": "please quantity is not correct",
+
+            "validatorPrice": "please enter price for this product",
+            "price": "unit Price",
+            "nameProduct": "Product",
+            "totalPrice": "total Price",
+            "notFound": "not found",
+            "warning": "warning",
+            "warningSubCategoryChose": "Please determine sub category",
+            "warningProductChose": "Please chose Product",
+
+            "backButton": "back"
+        },
+        "Salaries": {
+            "add_salaries": "Add a Salary",
+            "employee_name": "Employee's Name",
+            "amount": "Amount",
+            "notFound": "not found",
+            "validator": "'Please Enter a Salary for Employee !",
+            "date": "Present Time",
+            "selectDate": "Chose Date",
+            "AddButton": "Add",
+            "dialogValidator": {
+                "title": "warning",
+                "content": "please choice employee to add salary",
+                "btnBack": "back"
+            }
+        },
+        "Withdrawal": {
+            "withdrawal_text": "Add Withdrawal :",
+            "withdraw_amount": "Amount",
+            "validator1": "Please Enter a Amount !",
+            "validator2": "Please Enter a reason !",
+            "withdraw_reason": "Withdraw Reason",
+            "AddButton": "Add"
+        }
+    },
+    "Customer": {
+        "MainPage": {
+            "title": "Customer",
+            "allCustomerButton": "All Customer",
+            "FilttedHint": "Filtted",
+            "debts": "Debts"
+        },
+        "AddNewCustomerButton": {
+            "title": "ِAdd new customer",
+            "name": "Name",
+            "phone": "Phone",
+            "address": "Address",
+            "mobile": "Mobile",
+            "addButton": "Addd"
+        },
+        "AllCustomerPage": {
+            "appBarTitle": "All Customer",
+            "id": "id",
+            "name": "Name",
+            "remaning": "Remaining amount",
+            "Amount": "amount paid",
+            "moreVert": "more vert",
+            "warningDialog": {
+                "title": "warning",
+
+                "content": " is not available , if you want to add it press on add button",
+                "cancelButton": "back",
+                "addButton": "add"
+            },
+            "dialogPayment": {
+                "value": "value",
+                "validator1": "Please Enter a value !"
+            },
+            "popupMenuChoices": {
+                "callMobile": "call Mobile",
+                "callPhone": "call phone",
+                "detials": "detials",
+                "payment": "payment"
+            }
+        },
+        "ProfileCustomer": {
+            "AmountPaid": "Amount Paid",
+            "Remainig": "Remaining Amount",
+            "total": "total Amount",
+            "value": "value",
+            "date": "date",
+            "id": "id"
+
+        }
+    },
+    "Todo": {
+        "TodoAppBar": "Todo Home",
+        "TodoTitle": "Your Tasks",
+        "notask": "No Tasks",
+        "back": "Go Back To Home",
+        "ListTitle": {
+            "NoTitle": "no Title",
+            "task": "task",
+            "event": "Event",
+            "undo": "Undo",
+            "textSnackbar": "Your Task Deleted."
+        },
+        "AddewTask": {
+            "appBar": "Add New Task Or Event",
+            "titleTask": "Add Title",
+            "task": "Task",
+            "event": "Event",
+            "desc": "Description....",
+            "addButton": "add"
+        }
+    }
+
+
+
+}
