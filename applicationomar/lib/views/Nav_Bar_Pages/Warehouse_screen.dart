@@ -818,42 +818,42 @@ class WareHouse extends StatelessWidget {
                           );
                         } else {
                           return Slidable(
-                            actionPane: SlidableDrawerActionPane(),
-                            actionExtentRatio: 0.25,
-                            actions: [
-                              IconSlideAction(
-                                caption: DemoLocalizations.of(context)
-                                    .translate('Warehouse', 'Close_slid'),
-                                color: Colors.grey,
-                                icon: Icons.close,
-                              ),
-                              IconSlideAction(
-                                caption: DemoLocalizations.of(context)
-                                    .translate('Warehouse', 'More_slid'),
-                                color: Colors.green[300],
-                                icon: Icons.more_vert,
-                                onTap: () {
-                                  showDialog(
-                                      context: context,
-                                      builder: (context) =>
-                                          MoreInformationAboutProduct(
-                                              index: index));
-                                },
-                              ),
-                              IconSlideAction(
-                                caption: DemoLocalizations.of(context)
-                                    .translate('Warehouse', 'Del_slid'),
-                                color: Colors.red[300],
-                                icon: Icons.delete,
-                                onTap: () {
-                                  showDialog(
-                                    context: context,
-                                    builder: (context) =>
-                                        WarningDeleteProduct(index: index),
-                                  );
-                                },
-                              ),
-                            ],
+                            // actionPane: SlidableDrawerActionPane(),
+                            // actionExtentRatio: 0.25,
+                            // child: [
+                              // IconSlideAction(
+                              //   caption: DemoLocalizations.of(context)
+                              //       .translate('Warehouse', 'Close_slid'),
+                              //   color: Colors.grey,
+                              //   icon: Icons.close,
+                              // ),
+                              // IconSlideAction(
+                              //   caption: DemoLocalizations.of(context)
+                              //       .translate('Warehouse', 'More_slid'),
+                              //   color: Colors.green[300],
+                              //   icon: Icons.more_vert,
+                              //   onTap: () {
+                              //     showDialog(
+                              //         context: context,
+                              //         builder: (context) =>
+                              //             MoreInformationAboutProduct(
+                              //                 index: index));
+                              //   },
+                              // ),
+                              // IconSlideAction(
+                              //   caption: DemoLocalizations.of(context)
+                              //       .translate('Warehouse', 'Del_slid'),
+                              //   color: Colors.red[300],
+                              //   icon: Icons.delete,
+                              //   onTap: () {
+                              //     showDialog(
+                              //       context: context,
+                              //       builder: (context) =>
+                              //           WarningDeleteProduct(index: index),
+                              //     );
+                              //   },
+                              // ),
+                            // ],
                             child: ListTile(
                               // isThreeLine: true,
                               leading: Text(
@@ -890,6 +890,7 @@ class WareHouse extends StatelessWidget {
                               ),
                             ),
                           );
+                        
                         }
                       },
                     ),

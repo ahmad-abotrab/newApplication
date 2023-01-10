@@ -128,14 +128,11 @@ class _Loginviewstate extends State<LoginScreen> {
           }
       }
       MyApp.setLocale(context, locale);
-    }
+    } 
 
     ScreenUtil.init(
-      BoxConstraints(
-          maxWidth: MediaQuery.of(context).size.width,
-          maxHeight: MediaQuery.of(context).size.height),
+      context,
       designSize: Size(360, 690),
-      orientation: Orientation.portrait,
     );
     return Scaffold(
       // backgroundColor: Colors.grey,
@@ -385,11 +382,19 @@ class _Loginviewstate extends State<LoginScreen> {
                   Container(
                       child: MaterialButton(onPressed: () async {
                         const url = "https://codrex.co/";
-                        if (await canLaunch(url))
+                        try {
                           await launch(url);
-                        else
-                          // can't launch url, there is some error
-                          throw "Could not launch $url";
+                        } catch (ex) {
+                          print(ex);
+                          showDialog(
+                              context: context,
+                              builder: (_) => AlertDialog(
+                                    title: Text('warning'),
+                                    content: Text('could not open this url'),
+                                  ));
+                        }
+
+                        // can't launch url, there is some error
                       }),
                       width: MediaQuery.of(context).size.width * 0.4,
                       height: MediaQuery.of(context).size.width * 0.07,

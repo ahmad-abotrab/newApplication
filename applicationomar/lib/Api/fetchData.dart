@@ -1,7 +1,6 @@
 import 'package:applicationomar/localization/localizationFile.dart';
 import 'package:applicationomar/models/Todo.dart';
 
-
 import '/models/Debts/DebtsModel.dart';
 import '/models/Human/Customer.dart';
 import '/models/Human/Employee.dart';
@@ -406,7 +405,11 @@ class FetchData {
     Map<String, List<String>> category = {};
     for (Product product in productsList) {
       try {
+        if (category[product.catagory] == null) {
+            category[product.catagory] = [];
+          }
         if (product.subCategory != null) {
+          
           category[product.catagory].add(product.subCategory);
         } else {
           if (category[product.catagory].isEmpty ||
